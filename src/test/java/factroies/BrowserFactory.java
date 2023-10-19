@@ -12,7 +12,7 @@ public class BrowserFactory {
 		WebDriver driver = null;
 		ChromeOptions chromeOptions = new ChromeOptions();
 		 chromeOptions.addArguments("--remote-allow-origins=*");
-		  //check the chrome driver
+		  //check the chrome driver ds
 		
 		if(browser.equalsIgnoreCase("chrome"))
 		{
