@@ -17,7 +17,7 @@ public class BrowserFactory {
 		if(browser.equalsIgnoreCase("chrome"))
 		{
 			System.setProperty("webdriver.chrome.driver",
-					"D:\\training\\chromedriver-win64_116\\chromedriver-win64\\chromedriver.exe");
+					"D:\\selenium setup\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 			driver = new ChromeDriver(chromeOptions);
 	driver.get(url);
 driver.manage().window().maximize();

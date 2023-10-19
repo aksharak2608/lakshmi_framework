@@ -2,39 +2,39 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-22T21:39:04 IST" name="Suite" finished-at="2023-08-22T21:39:13 IST" duration-ms="8850">
+  <suite started-at="2023-10-19T08:42:21 IST" name="Suite" finished-at="2023-10-19T08:42:32 IST" duration-ms="10105">
     <groups>
     </groups>
-    <test started-at="2023-08-22T21:39:04 IST" name="Test" finished-at="2023-08-22T21:39:13 IST" duration-ms="8850">
+    <test started-at="2023-10-19T08:42:21 IST" name="Test" finished-at="2023-10-19T08:42:32 IST" duration-ms="10105">
       <class name="TestCases.login_test">
-        <test-method is-config="true" signature="reports()[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:04 IST" name="reports" finished-at="2023-08-22T21:39:04 IST" duration-ms="185" status="PASS">
+        <test-method is-config="true" signature="reports()[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:21 IST" name="reports" finished-at="2023-10-19T08:42:21 IST" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reports -->
-        <test-method is-config="true" signature="StartSession()[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:04 IST" name="StartSession" finished-at="2023-08-22T21:39:09 IST" duration-ms="5578" status="PASS">
+        <test-method is-config="true" signature="StartSession()[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:21 IST" name="StartSession" finished-at="2023-10-19T08:42:28 IST" duration-ms="6915" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartSession -->
-        <test-method signature="test()[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:09 IST" name="test" finished-at="2023-08-22T21:39:12 IST" duration-ms="2645" status="PASS">
+        <test-method signature="test()[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:28 IST" name="test" finished-at="2023-10-19T08:42:31 IST" duration-ms="2846" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="ResultReport(org.testng.ITestResult)[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:12 IST" name="ResultReport" finished-at="2023-08-22T21:39:13 IST" duration-ms="414" status="PASS">
+        <test-method is-config="true" signature="ResultReport(org.testng.ITestResult)[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:31 IST" name="ResultReport" finished-at="2023-10-19T08:42:31 IST" duration-ms="173" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=test status=SUCCESS method=login_test.test()[pri:0, instance:TestCases.login_test@69e1dd28] output={null}]]]>
+                <![CDATA[[TestResult name=test status=SUCCESS method=login_test.test()[pri:0, instance:TestCases.login_test@61dd025] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ResultReport -->
-        <test-method is-config="true" signature="EndSession()[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:13 IST" name="EndSession" finished-at="2023-08-22T21:39:13 IST" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="EndSession()[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:31 IST" name="EndSession" finished-at="2023-10-19T08:42:32 IST" duration-ms="124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EndSession -->
-        <test-method is-config="true" signature="flush_reports()[pri:0, instance:TestCases.login_test@69e1dd28]" started-at="2023-08-22T21:39:13 IST" name="flush_reports" finished-at="2023-08-22T21:39:13 IST" duration-ms="582" status="PASS">
+        <test-method is-config="true" signature="flush_reports()[pri:0, instance:TestCases.login_test@61dd025]" started-at="2023-10-19T08:42:32 IST" name="flush_reports" finished-at="2023-10-19T08:42:32 IST" duration-ms="552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flush_reports -->
